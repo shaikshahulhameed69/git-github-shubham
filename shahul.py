@@ -1,0 +1,2 @@
+i am re creating the github repostitory and adding filles . 
+in this last i will learn about the python program was having errors in the file. the error was where having and know before the commit in the git and to push the code to github.
